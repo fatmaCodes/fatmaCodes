@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @fatmaCodes
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning Web Dev
-- 💞️ I’m looking to collaborate on Open Source
-- 📫 How to reach me mail : fatimakhan39600@gmail.com
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: Loves learn something new everyday
+# 👋 Hi, I'm Fatma Khan
 
-<!---
-fatmaCodes/fatmaCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💼 Data Analyst | Python & Automation Enthusiast
+
+* 🔍 Experienced in data analysis, reporting, and business insights
+* 📊 Skilled in building dashboards and visualizations
+* ⚙️ Projects using Python, Pandas, Selenium & Advance Excel
+* 💞️ Open to collaboration on data & open-source projects
+
+📫 Email: [fatimakhan39600@gmail.com](mailto:fatimakhan39600@gmail.com)
+
+⚡ I enjoy turning raw data into meaningful insights 🚀
